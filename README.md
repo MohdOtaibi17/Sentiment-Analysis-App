@@ -1,4 +1,4 @@
-# Sentiment Analysis Web App
+# Sentiment Analysis Web App.
 
 This is a **Sentiment Analysis Web Application** built using **Streamlit**.  
 The app allows users to input customer reviews (manually, via CSV, or predefined sample reviews) and analyzes their sentiment using multiple models:
